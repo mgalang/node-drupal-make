@@ -1,0 +1,16 @@
+{
+  "name": "node-drupal-make",
+  "version": "0.1.0",
+  "description": "Nodejs app for making/building a drupal site",
+  "bin": "bin/node-drupal-make",
+  "keywords": [
+    "Drupal",
+    "make",
+    "build"
+  ],
+  "author": "Marc Galang",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.24.0"
+  }
+}
