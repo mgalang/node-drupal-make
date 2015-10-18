@@ -15,6 +15,8 @@ An simple automation tool built with Node.js for building/making a Drupal site. 
         modules/
         settings.php
 
+Makefile - Drush makefile (See http://www.drush.org/en/master/make/)
+
 ## Usage
 Run make command inside site project directory
 
