@@ -23,6 +23,7 @@ Run make command inside site project directory
 ## Todo
 * Tests
 * CLI arguments
+* Add database sync
 
 ## License
 
