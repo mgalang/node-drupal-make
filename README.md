@@ -7,13 +7,13 @@ An simple automation tool built with Node.js for building/making a Drupal site. 
     $ npm install -g
 
 ## Site project directory structure
-    .
-    makefile
-    site/
-        themes/
-        files/
-        modules/
-        settings.php
+    my_site_project/
+        makefile
+        site/
+            themes/
+            files/
+            modules/
+            settings.php
 
 Makefile - Drush makefile (See http://www.drush.org/en/master/make/)
 
