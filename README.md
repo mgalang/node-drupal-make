@@ -1,6 +1,6 @@
 # Node Drupal Make
 
-An simple automation tool built with Node.js for building/making a Drupal site. Used for simple automation of drupal site deploys and local development builds.
+A simple automation tool built with Node.js for building/making a Drupal site. Used for simple automation of drupal site deploys or local development builds.
 
 ## Installation
     Clone this repository, and install:
