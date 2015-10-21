@@ -10,7 +10,7 @@ An simple automation tool built with Node.js for building/making a Drupal site. 
 
 First create your site's directory structure
 
-    my_site_project/
+    my_site/
         makefile
         site/
             themes/
