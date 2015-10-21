@@ -6,7 +6,9 @@ An simple automation tool built with Node.js for building/making a Drupal site. 
     Clone this repository, and install:
     $ npm install -g
 
-## Site project directory structure
+## Usage
+
+First create your site's directory structure
     my_site_project/
         makefile
         site/
@@ -15,12 +17,13 @@ An simple automation tool built with Node.js for building/making a Drupal site. 
             modules/
             settings.php
 
-Makefile - Drush makefile (See http://www.drush.org/en/master/make/)
+Note: The makefile should be a drush makefile (See http://www.drush.org/en/master/make/)
 
-## Usage
-Run make command inside site project directory
+Then run node-drupal-make command inside your site's directory
 
     $ node-drupal-make
+    
+The node-drupal-make command will generate your drupal site to the /build directory and will link your themes, files, modules and settings. 
 
 ## Todo
 * Tests
