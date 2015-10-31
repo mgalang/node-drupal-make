@@ -12,5 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^0.24.0"
-  }
+  },
+  "engine": "node >= 4.2.1"
 }
