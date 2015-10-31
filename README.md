@@ -2,6 +2,8 @@
 
 A simple automation tool built with Node.js for building/making a Drupal site. Used for simple automation of drupal site deploys or local development builds.
 
+Current supports Drupal 7.x
+
 ## Installation
     Clone this repository, and install:
     $ npm install -g
@@ -30,6 +32,7 @@ The node-drupal-make command will generate your drupal site to the /build direct
 * Tests
 * CLI arguments
 * Add database sync
+* Drupal 8 builds
 
 ## License
 
